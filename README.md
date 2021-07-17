@@ -7,3 +7,4 @@ Meine Verson des Monty Hall Problems in Python
 - Sounds
 - Bilder (Tkinter Version)
 - Deutsch
+- Statistiken
